@@ -10,6 +10,11 @@ Checkout.
 
 	git clone https://github.com/kjunine/server.git ~/.server
 
+Install dependencies.
+
+	cd ~/.server
+	npm install
+
 Add this to .bashrc or .zshrc.
 
 	alias server="~/.server/index.js"
